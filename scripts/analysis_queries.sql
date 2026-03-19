@@ -2,8 +2,7 @@
 ========================================
 Netflix Data Analysis using SQL
 ========================================
-Author: Your Name
-Description:
+Author: Jiya Arora
 Basic Exploratory Data Analysis (EDA) on cleaned Netflix dataset
 ========================================
 */
